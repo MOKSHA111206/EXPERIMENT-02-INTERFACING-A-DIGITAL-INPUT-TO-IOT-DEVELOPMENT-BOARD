@@ -1,4 +1,4 @@
-# EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+# EXPERIMENT:02-INTERFACING A DIGITAL INPUT OUTPUT TO IOT DEVELOPMENT BOARD
 
 
 **DATE: 14-08-2026**
@@ -192,8 +192,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## OUTPUT
+
+### OBJECT DETECTED LED ON ### 
 <img width="392" height="700" alt="image" src="https://github.com/user-attachments/assets/98f1f8f5-7f49-469f-9d4a-0c95f7481be1" />
+
+### OBJECT DETECTED LED OFF ###
 <img width="391" height="702" alt="image" src="https://github.com/user-attachments/assets/5436609b-3fa1-48fb-a95a-d524c826e8a0" />
+
+### OBJECT NOT DETECTED ###
 <img width="392" height="697" alt="image" src="https://github.com/user-attachments/assets/a0197ed5-716e-4b4e-87a8-dfc9b5eb50e2" />
 
 ## Result
